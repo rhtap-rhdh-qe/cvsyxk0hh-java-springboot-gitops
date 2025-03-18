@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: cvsyxk0hh-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/cvsyxk0hh-java-springboot-gitops
